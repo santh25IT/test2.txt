@@ -1,0 +1,10 @@
+.login {
+padding: 10px;
+border: 10px;
+background-color: cornflowerblue;
+ width: 300px;
+ height: 130px;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
